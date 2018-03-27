@@ -1,7 +1,7 @@
 install.packages("igraph")
 library("igraph")
 
-setwd("C:\\Users\\saurabh singh\\Desktop\\pro")
+setwd("C:\\Users\\prateek saxena\\Desktop\\pro")
 
 
 df <- read.table("sample123.csv", sep=",")
